@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: #4e73df;
+  --color-text-primary: #3a3b45;
+  --color-text-secondary: #5a5c69;
+  --color-bg-primary: #f8f9fc;
+  --color-surface: #ffffff;
+  --color-border: #e3e6f0;
+}
+
+/* --- BLOK KODE REVISI DIMULAI --- */
+html {
+  /* Mengembalikan ke nilai yang lebih konservatif agar tidak terlalu besar di laptop */
+  font-size: clamp(14px, 1vw + 0.25rem, 18px);
+}
+/* --- BLOK KODE REVISI SELESAI --- */
+
+.theme-green { --color-primary: #1cc88a; }
+.theme-purple { --color-primary: #6f42c1; }
+.theme-red { --color-primary: #e74a3b; }
+
+.dark {
+  --color-primary: #5a99ff;
+  --color-text-primary: #e0e0fc;
+  --color-text-secondary: #c0c0e0;
+  --color-bg-primary: #1a1a2e;
+  --color-surface: #24243e;
+  --color-border: #3a3a5a;
+}
+
+body {
+  @apply bg-bg-primary text-text-primary transition-colors duration-300;
+}
+
+.nav-active {
+  color: var(--color-primary);
+  font-weight: 600;
+}
+
+@media print {
+  body {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  header, footer, aside, nav, .no-print {
+    display: none !important;
+  }
+  main {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  .lg\:ml-20, .lg\:ml-64 {
+    margin-left: 0 !important;
+  }
+  section {
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+    border: none !important;
+  }
+}

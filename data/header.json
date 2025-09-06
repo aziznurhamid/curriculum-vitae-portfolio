@@ -1,0 +1,55 @@
+{
+  "personal_info": {
+    "default_role": "main",
+    "roles": {
+      "main": {
+        "name": "Azis Nurhamid",
+        "title": "Web Developer, Graphic Designer & IT Support",
+        "bio": "Seorang profesional IT dinamis dengan keahlian ganda di bidang pengembangan web front-end dan desain grafis. Terampil dalam membangun aplikasi web responsif menggunakan HTML, CSS, JavaScript, dan Next.js. Berpengalaman merancang materi promosi yang menarik secara visual. Juga memiliki kompetensi teknis yang kuat dalam administrasi jaringan MikroTik dan dukungan IT.",
+        "image_url_key": "personal.profile_image"
+      },
+      "developer": {
+        "name": "Azis Nurhamid",
+        "title": "Web Developer",
+        "bio": "Pengembang web front-end yang berfokus pada pembuatan aplikasi web yang responsif dan berkinerja tinggi. Mahir dalam HTML, CSS, JavaScript, dan framework modern seperti Next.js dan React. Berpengalaman dalam mengubah desain menjadi kode yang fungsional dan ramah pengguna.",
+        "image_url_key": "personal.profile_image"
+      },
+      "designer": {
+        "name": "Azis Nurhamid",
+        "title": "Graphic Designer",
+        "bio": "Desainer Grafis dengan hasrat untuk menciptakan identitas visual yang kuat dan materi promosi yang menarik. Berpengalaman dalam proses desain mulai dari konsepsi ide, pembuatan logo, hingga desain brosur dan konten media sosial. Mahir menggunakan perangkat lunak seperti CorelDRAW, Photoshop, dan Canva untuk menghasilkan karya yang berdampak.",
+        "image_url_key": "personal.profile_image"
+      },
+      "it_support": {
+        "name": "Azis Nurhamid",
+        "title": "IT Support & Network Administrator",
+        "bio": "Spesialis IT Support dengan keahlian dalam administrasi jaringan, khususnya dengan perangkat MikroTik. Berpengalaman dalam instalasi, konfigurasi, dan pemeliharaan jaringan nirkabel dan kabel. Mampu memberikan dukungan teknis dan pemecahan masalah untuk memastikan operasional IT yang lancar.",
+        "image_url_key": "personal.profile_image"
+      },
+      "programmer": {
+        "name": "Azis Nurhamid",
+        "title": "Programmer",
+        "bio": "Programmer yang berfokus pada pengembangan aplikasi web fungsional. Menguasai HTML, CSS, JavaScript, dan berbagai framework modern untuk menciptakan solusi perangkat lunak yang andal dan efisien. Berpengalaman dalam logika pemrograman dan struktur data.",
+        "image_url_key": "personal.profile_image"
+      },
+      "video_editor": {
+        "name": "Azis Nurhamid",
+        "title": "Video Editor",
+        "bio": "Editor video kreatif yang mampu mengubah rekaman mentah menjadi konten video yang menarik. Menguasai perangkat lunak editing seperti Adobe After Effects dan Capcut. Berpengalaman dalam alur kerja produksi video mulai dari pemotongan, grading warna, hingga penambahan efek visual.",
+        "image_url_key": "personal.profile_image"
+      },
+      "digital_marketer": {
+        "name": "Azis Nurhamid",
+        "title": "Digital Marketer",
+        "bio": "Pemasar digital dengan keahlian dalam SEO, analisis data, dan manajemen iklan berbayar. Berpengalaman dalam merancang dan mengeksekusi strategi pemasaran online untuk meningkatkan visibilitas merek dan mendorong pertumbuhan bisnis.",
+        "image_url_key": "personal.profile_image"
+      },
+      "technician": {
+        "name": "Azis Nurhamid",
+        "title": "Computer Technician",
+        "bio": "Teknisi komputer yang terampil dalam instalasi sistem operasi, perangkat lunak, dan game. Berpengalaman dalam pemecahan masalah perangkat keras dan perangkat lunak untuk memastikan kinerja sistem yang optimal.",
+        "image_url_key": "personal.profile_image"
+      }
+    }
+  }
+}

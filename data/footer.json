@@ -1,0 +1,43 @@
+{
+  "ui_text": {
+    "contact_title": "Kontak",
+    "social_title": "Temukan Saya Di"
+  },
+  "contact": {
+    "email": {
+      "value": "azisnurhamid@gmail.com",
+      "url": "mailto:azisnurhamid@gmail.com",
+      "icon_key": "email"
+    },
+    "whatsapp": {
+      "value": "63-912-605-0924",
+      "url": "https://wa.me/639126050924",
+      "icon_key": "phone"
+    },
+    "location": {
+      "value": "Jl. Sunan Bonang RT 004 RW 002, Tambaksari Kidul",
+      "url": "https://maps.app.goo.gl/CWZ6Td9Adh2V1nBE9",
+      "icon_key": "location"
+    }
+  },
+  "social_links": [
+      {
+        "name": "GitHub",
+        "text": "Azis Nurhamid",
+        "url": "https://github.com/aziznurhamid",
+        "icon_key": "github"
+      },
+      {
+        "name": "LinkedIn",
+        "text": "Azis Nurhamid",
+        "url": "https://www.linkedin.com/in/azis-nurhamid-4373111aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "icon_key": "linkedin"
+      },
+      {
+        "name": "Instagram",
+        "text": "@azis_061",
+        "url": "https://www.instagram.com/azis_061?igsh=ZGZuenpqb3kzN3E4",
+        "icon_key": "instagram"
+      }
+  ]
+}

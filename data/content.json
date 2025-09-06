@@ -1,0 +1,143 @@
+{
+  "ui_text": {
+    "experience_title": "Pengalaman Profesional",
+    "education_title": "Pendidikan & Kualifikasi",
+    "skills_title": "Keahlian Teknis",
+    "certifications_title": "Sertifikasi & Lisensi",
+    "portfolio_summary_title": "Proyek Unggulan",
+    "portfolio_summary_button": "Lihat Semua Proyek",
+    "portfolio_summary_print_button": "Cetak CV"
+  },
+  "experience": [
+    { 
+      "title": "Spesialis Pemasaran Digital & Web", 
+      "company": "CV. Sanjaya Gemilang", 
+      "period": "Maret 2022 - September 2025", 
+      "description": "Memegang peran multifungsi yang mencakup spektrum digital. Bertanggung jawab untuk membuat dan mengelola website perusahaan, merancang materi grafis, dan memproduksi konten video promosi. Berhasil mengoptimalkan website untuk mencapai peringkat teratas di penelusuran lokal (Local SEO) dan mengelola kampanye iklan berbayar (Paid Ads) untuk meningkatkan prospek penjualan.", 
+      "roles": ["developer", "designer", "it_support", "programmer", "video_editor", "digital_marketer"] 
+    },
+    { 
+      "title": "Teknisi Jaringan", 
+      "company": "Usaha Wifi Voucheran", 
+      "period": "Februari 2019 - Saat ini", 
+      "description": "Bertanggung jawab penuh atas instalasi, konfigurasi, dan pemeliharaan infrastruktur jaringan nirkabel. Terampil dalam melakukan troubleshooting untuk memastikan konektivitas dan performa jaringan yang optimal bagi klien.", 
+      "roles": ["it_support", "technician"] 
+    },
+    { 
+      "title": "Entry Data Produksi", 
+      "company": "PT. Tiga Bintang Sejahtera", 
+      "period": "Agustus 2021 - Oktober 2021", 
+      "description": "Mengelola input data produksi harian ke dalam sistem manajemen. Melakukan verifikasi akurasi data secara teliti dan menyusun laporan terperinci untuk mendukung pengambilan keputusan manajemen.", 
+      "roles": [] 
+    }
+  ],
+  "education": [
+    { "degree": "SMK - Teknik Komputer & Jaringan", "institution": "SMK Bina Teknologi Purwokerto", "period": "2017 - 2020", "description": "Meraih fondasi yang kuat dalam perangkat keras, perangkat lunak, administrasi jaringan, dan keamanan siber." },
+    { "degree": "D3 Teknik Informatika", "institution": "Universitas BSI Purwokerto", "period": "2020 - 2023", "description": "Menempuh studi yang berfokus pada algoritma, struktur data, dan prinsip-prinsip pengembangan aplikasi perangkat lunak." }
+  ],
+  "skills": [
+    {
+      "category": "Pemrograman & Framework",
+      "roles": ["developer", "programmer"],
+      "list": [
+        { "name": "HTML", "logo_key": "html" },
+        { "name": "CSS", "logo_key": "css" },
+        { "name": "JavaScript", "logo_key": "javascript" },
+        { "name": "React", "logo_key": "react" },
+        { "name": "Next.js", "logo_key": "nextjs" },
+        { "name": "Tailwind CSS", "logo_key": "tailwindcss" },
+        { "name": "Bootstrap", "logo_key": "bootstrap" },
+        { "name": "JSON", "logo_key": "json" }
+      ]
+    },
+    {
+      "category": "Desain Grafis",
+      "roles": ["designer"],
+      "list": [
+        { "name": "CorelDRAW", "logo_key": "coreldraw" },
+        { "name": "Photoshop", "logo_key": "photoshop" },
+        { "name": "Canva", "logo_key": "canva" }
+      ]
+    },
+    {
+      "category": "Editing Video",
+      "roles": ["video_editor"],
+      "list": [
+        { "name": "Adobe After Effects", "logo_key": "after_effects" },
+        { "name": "Capcut", "logo_key": "capcut" },
+        { "name": "Canva", "logo_key": "canva" }
+      ]
+    },
+    {
+      "category": "Administrasi",
+      "roles": [],
+      "list": [
+        { "name": "Microsoft Word", "logo_key": "word" },
+        { "name": "Microsoft Excel", "logo_key": "excel" },
+        { "name": "Google Spreadsheet", "logo_key": "google_sheets" },
+        { "name": "Google Dokumen", "logo_key": "google_docs" }
+      ]
+    },
+    {
+      "category": "Jaringan",
+      "roles": ["it_support"],
+      "list": [
+        { "name": "Konfigurasi MikroTik", "logo_key": "mikrotik" },
+        { "name": "Konfigurasi Wifi", "logo_key": "wifi" },
+        { "name": "Maintenance Jaringan", "logo_key": "maintenance" }
+      ]
+    },
+    {
+      "category": "Digital Marketing",
+      "roles": ["digital_marketer"],
+      "list": [
+        { "name": "SEO", "logo_key": "seo" },
+        { "name": "Data Analytics", "logo_key": "data_analytics" },
+        { "name": "Ads Specialist", "logo_key": "ads" }
+      ]
+    },
+    {
+      "category": "Teknisi Laptop & Komputer",
+      "roles": ["it_support", "technician"],
+      "list": [
+        { "name": "Install Ulang OS", "logo_key": "windows" },
+        { "name": "Install Ulang Game", "logo_key": "game" },
+        { "name": "Install Ulang Software", "logo_key": "software" }
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "category": "Networking",
+      "name": "MTCNA - MikroTik Certified Network Associate",
+      "issuer": "Diterbitkan oleh MikroTik (Juli 2023)",
+      "description": "Sertifikasi yang memvalidasi kompetensi dalam konfigurasi dan manajemen jaringan MikroTik.",
+      "url_key": "certificates.mtcna",
+      "roles": ["it_support"]
+    },
+    {
+      "category": "Networking",
+      "name": "CCNAv7: Introduction to Networks",
+      "issuer": "Diterbitkan oleh Cisco Networking Academy (Februari 2022)",
+      "description": "Memvalidasi kemampuan untuk mengonfigurasi switch, router, dan perangkat jaringan dasar.",
+      "url_key": "certificates.ccna",
+      "roles": ["it_support"]
+    },
+    {
+      "category": "Programer",
+      "name": "HTML Dasar",
+      "issuer": "Diterbitkan oleh Skilvul (September 2020)",
+      "description": "Menyelesaikan kursus intensif tentang dasar-dasar pengembangan web menggunakan HTML.",
+      "url_key": "certificates.html_dasar",
+      "roles": ["developer", "programmer"]
+    },
+    {
+      "category": "Programer",
+      "name": "Belajar Membuat Website Pertamamu",
+      "issuer": "Diterbitkan oleh Impact Byte (September 2020)",
+      "description": "Menyelesaikan kelas dan membangun proyek website pertama dari awal.",
+      "url_key": "certificates.website_pertama",
+      "roles": ["developer", "programmer"]
+    }
+  ]
+}
