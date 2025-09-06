@@ -1,0 +1,52 @@
+{
+  "site": {
+    "favicon": "https://ik.imagekit.io/azisnurhamid/Curriculum%20Vitae/Images/favicon.ico?updatedAt=1754366743888"
+  },
+  "personal": {
+    "profile_image": "https://ik.imagekit.io/azisnurhamid/Curriculum%20Vitae/Images/profile.jpg?updatedAt=1754366743669&tr=w-200,h-200,q-80,f-webp",
+    "profile_image_large": "https://ik.imagekit.io/azisnurhamid/Curriculum%20Vitae/Images/profile.jpg?updatedAt=1754366743669"
+  },
+  "social": {
+    "github": "https://github.com/azisnurhamid",
+    "linkedin": "https://linkedin.com/in/azisnurhamid",
+    "dribbble": "https://dribbble.com/azisnurhamid",
+    "instagram": "https://instagram.com/azisnurhamid",
+    "facebook": "https://facebook.com/azisnurhamid",
+    "threads": "https://threads.net/@azisnurhamid",
+    "youtube": "https://youtube.com/channel/yourchannel"
+  },
+  "certificates": {
+    "mtcna": "https://ik.imagekit.io/azisnurhamid/Curriculum%20Vitae/Portable%20Document%20Format/Sertifikat/MTCNA.pdf?updatedAt=1754369156905",
+    "ccna": "https://ik.imagekit.io/azisnurhamid/Curriculum%20Vitae/Portable%20Document%20Format/Sertifikat/CCNA%20Versi%207.pdf?updatedAt=1754369157202",
+    "html_dasar": "https://ik.imagekit.io/azisnurhamid/Curriculum%20Vitae/Portable%20Document%20Format/Sertifikat/HTML%20Dasar.pdf?updatedAt=1754369157173",
+    "website_pertama": "https://ik.imagekit.io/azisnurhamid/Curriculum%20Vitae/Portable%20Document%20Format/Sertifikat/Belajar%20Membuat%20Website%20Pertamamu.pdf?updatedAt=1754369156682"
+  },
+  "skills": {
+    "html": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg",
+    "css": "https://cdn.worldvectorlogo.com/logos/css-3.svg",
+    "javascript": "https://www.w3schools.com/whatis/img_js.png",
+    "react": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg",
+    "nextjs": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg",
+    "tailwindcss": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
+    "bootstrap": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg",
+    "json": "https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg",
+    "coreldraw": "https://www.coreldraw.com/static/cdgs/product_content/cdgs/2019/boxshot-coreldraw-upgrade-program-2019.png",
+    "photoshop": "https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg",
+    "canva": "https://static.canva.com/domain-assets/canva/static/images/apple-touch-152x152-1.png",
+    "after_effects": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg",
+    "capcut": "https://sf16-web-tos-buz.capcutstatic.com/obj/capcut-web-buz-sg/common/images/lv_web-2.ico",
+    "word": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg",
+    "excel": "https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg",
+    "google_sheets": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Google_Sheets_2020_Logo.svg",
+    "google_docs": "https://upload.wikimedia.org/wikipedia/commons/6/66/Google_Docs_2020_Logo.svg",
+    "mikrotik": "https://merch.mikrotik.com/cdn/shop/files/512.png?v=1657867177&width=500",
+    "wifi": "https://upload.wikimedia.org/wikipedia/commons/a/ae/WiFi_Logo.svg",
+    "maintenance": "https://supersonality.com/wp-content/uploads/2021/09/icon-x-silang.png",
+    "seo": "https://cdn-icons-png.flaticon.com/512/5902/5902318.png",
+    "data_analytics": "https://cdn-icons-png.flaticon.com/512/17193/17193728.png",
+    "ads": "https://cdn-icons-png.flaticon.com/512/3094/3094918.png",
+    "windows": "https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg",
+    "game": "https://cdn2.steamgriddb.com/icon/50e8d294d7bce40086885257076ede3f/32/256x256.png",
+    "software": "https://chromeenterprise.google/static/favicon.ico"
+  }
+}

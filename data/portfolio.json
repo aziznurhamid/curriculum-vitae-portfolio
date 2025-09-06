@@ -1,0 +1,80 @@
+{
+  "ui_text": {
+    "page_title": "Portofolio Proyek",
+    "page_subtitle": "Berikut adalah beberapa karya dan proyek yang telah saya kerjakan.",
+    "project_button_text": "Lihat Proyek",
+    "meta_description": "Portofolio proyek oleh %s. Lihat karya-karya terbaru dalam pengembangan web, desain, dan jaringan."
+  },
+  "projects": [
+    {
+      "image": "https://ik.imagekit.io/azisnurhamid/Curriculum%20Vitae/Images/Preview%20Portfolio/Website%20Dealer%20Motor%20-%20Sanjaya%20Motor.png?updatedAt=1756830878664",
+      "category": "Pengembangan Web",
+      "title": "Website Dealer Motor - Sanjaya Motor",
+      "description": "Mengembangkan website informatif yang berfungsi sebagai pusat informasi produk, promo, dan layanan purnajual untuk dealer motor ternama. Tujuannya adalah meningkatkan kehadiran online dan memudahkan akses informasi bagi pelanggan.",
+      "technologies": [
+        { "name": "HTML", "logo_key": "html" },
+        { "name": "CSS", "logo_key": "css" },
+        { "name": "JavaScript", "logo_key": "javascript" },
+        { "name": "Bootstrap", "logo_key": "bootstrap" },
+        { "name": "JSON", "logo_key": "json" }
+      ],
+      "url": "https://hondasanjaya.com/",
+      "roles": ["developer", "programmer", "digital_marketer"]
+    },
+    {
+      "image": "https://ik.imagekit.io/azisnurhamid/Curriculum%20Vitae/Images/Preview%20Portfolio/Website%20Platform%20E-commerce%20Jasa%20Percetakan.png?updatedAt=1756830877875",
+      "category": "Pengembangan Web",
+      "title": "Platform E-commerce Jasa Percetakan",
+      "description": "Membangun platform online untuk pemesanan jasa cetak, memungkinkan pelanggan untuk dengan mudah memesan brosur, spanduk, dan materi lainnya. Fokus pada pengalaman pengguna yang lancar dari pemilihan hingga pembayaran.",
+      "technologies": [
+        { "name": "HTML", "logo_key": "html" },
+        { "name": "CSS", "logo_key": "css" },
+        { "name": "JavaScript", "logo_key": "javascript" },
+        { "name": "Bootstrap", "logo_key": "bootstrap" },
+        { "name": "JSON", "logo_key": "json" }
+      ],
+      "url": "https://azka-project.netlify.app/",
+      "roles": ["developer", "programmer"]
+    },
+    {
+      "image": "https://ik.imagekit.io/azisnurhamid/Curriculum%20Vitae/Images/Preview%20Portfolio/Website%20Aplikasi%20Digital%20Guestbook%20Pernikahan.png?updatedAt=1756830878371",
+      "category": "Pengembangan Web",
+      "title": "Aplikasi Digital Guestbook Pernikahan",
+      "description": "Merancang dan mengembangkan aplikasi absensi tamu digital berbasis web. Solusi ini memungkinkan tamu untuk check-in dengan memindai kode QR, dan data kehadiran direkam secara real-time ke Google Sheets untuk kemudahan manajemen.",
+      "technologies": [
+        { "name": "HTML", "logo_key": "html" },
+        { "name": "CSS", "logo_key": "css" },
+        { "name": "JavaScript", "logo_key": "javascript" },
+        { "name": "Bootstrap", "logo_key": "bootstrap" },
+        { "name": "JSON", "logo_key": "json" },
+        { "name": "Google Sheets", "logo_key": "google_sheets" }
+      ],
+      "url": "https://absensi-pernikahan.netlify.app/?client=iqbal-devin",
+      "roles": ["developer", "programmer"]
+    },
+    {
+      "image": "https://ik.imagekit.io/azisnurhamid/Curriculum%20Vitae/Images/Preview%20Portfolio/Galeri%20Desain%20Identitas%20Visual%20&%20Branding.png?updatedAt=1756830879464",
+      "category": "Desain Grafis",
+      "title": "Desain Identitas Visual & Branding",
+      "description": "Membuat berbagai aset visual untuk promosi dan branding, termasuk konsepsi logo, desain brosur, dan materi pemasaran digital. Bertujuan untuk menciptakan identitas merek yang kuat dan konsisten di berbagai media.",
+      "technologies": [
+        { "name": "Photoshop", "logo_key": "photoshop" },
+        { "name": "CorelDRAW", "logo_key": "coreldraw" },
+        { "name": "Canva", "logo_key": "canva" }
+      ],
+      "url": "https://portfolio-desain-azis-nurhamid.netlify.app/",
+      "roles": ["designer", "video_editor"]
+    },
+    {
+      "image": "https://ik.imagekit.io/azisnurhamid/Curriculum%20Vitae/Images/Preview%20Portfolio/Gambaran%20Installasi%20Jaringan%20Wi-Fi%20Voucher.png?updatedAt=1756830879261",
+      "category": "Administrasi Jaringan",
+      "title": "Implementasi Jaringan Wifi Hotspot",
+      "description": "Merancang dan mengimplementasikan solusi jaringan hotspot berbasis voucher, termasuk konfigurasi server MikroTik dan optimasi perangkat jaringan. Proyek ini bertujuan untuk menyediakan akses internet yang andal dan terkontrol.",
+      "technologies": [
+        { "name": "MikroTik", "logo_key": "mikrotik" }
+      ],
+      "url": "https://ik.imagekit.io/azisnurhamid/Curriculum%20Vitae/Images/installasi%20jaringan%20wifi%20voucher.webp?updatedAt=1754369543704",
+      "roles": ["it_support"]
+    }
+  ]
+}

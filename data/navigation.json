@@ -1,0 +1,9 @@
+{
+  "items": [
+    { "id": "home", "text": "Beranda", "icon_key": "home" },
+    { "id": "experience", "text": "Pengalaman", "icon_key": "experience" },
+    { "id": "education", "text": "Pendidikan", "icon_key": "education" },
+    { "id": "skills", "text": "Keterampilan", "icon_key": "skills" },
+    { "id": "certifications", "text": "Sertifikasi", "icon_key": "certifications" }
+  ]
+}

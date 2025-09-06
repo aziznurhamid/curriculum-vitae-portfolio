@@ -1,0 +1,30 @@
+{
+  "settings": {
+    "title": "Azis Nurhamid - CV & Portofolio",
+    "meta_description": "CV dan Portofolio Pribadi Azis Nurhamid, seorang profesional teknologi multi-keahlian.",
+    "favicon_url_key": "site.favicon",
+    "base_url": "https://curriculum-vitae-dan-portfolio.netlify.app",
+    "themes": [
+      { "name": "default", "color": "#4e73df" },
+      { "name": "green", "color": "#1cc88a" },
+      { "name": "purple", "color": "#6f42c1" },
+      { "name": "red", "color": "#e74a3b" }
+    ]
+  },
+  "ui_text": {
+    "loading_text": "Loading...",
+    "profile_modal_close_label": "Tutup",
+    "profile_modal_alt_text": "Foto Profil",
+    "nav_toggle_tooltip": "Alihkan Navigasi",
+    "theme_switcher_tooltip": "Ganti Tema",
+    "dark_mode_tooltip": "Mode Gelap/Terang",
+    "print_tooltip": "Cetak Halaman Ini",
+    "theme_selector_icon_key": "themeSelector",
+    "dark_mode_icon_key": "darkMode",
+    "light_mode_icon_key": "lightMode",
+    "profile_modal_close_icon_key": "modalClose",
+    "nav_toggle_open_icon_key": "navToggleOpen",
+    "nav_toggle_close_icon_key": "navToggleClose",
+    "print_icon_key": "print"
+  }
+}
